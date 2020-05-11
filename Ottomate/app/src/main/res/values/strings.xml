@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Ottomate</string>
+    <string name="living_room">\tLiving Room\t</string>
+    <string name="kitchen">\tKitchen\t</string>
+    <string name="bedroom_1">\tBedroom-1\t</string>
+    <string name="bedroom_2">\tBedroom-2\t</string>
+    <string name="bathroom">\tBathroom\t</string>
+    <string name="lobby">\tLobby\t</string>
+    <string name="power_rating">Power Rating:\t</string>
+    <string name="power">\t7</string>
+    <string name="light_bulb">Light Bulb</string>
+    <string name="air_conditioner">Air Conditioner</string>
+    <string name="_2_kw">\t2000</string>
+    <string name="fan">Fan</string>
+    <string name="_75_w">\t75</string>
+    <string name="channel_name">name of channel</string>
+    <string name="channel_description">des of channel</string>
+    <string name="watt">\tWatt</string>
+    <string name="water_heater">Water Heater</string>
+    <string name="exhaust_fan">Exhaust Fan</string>
+    <string name="tv">T.V.</string>
+    <string name="_100">\t100</string>
+    <string name="chimney">Chimney</string>
+    <string name="_230">230</string>
+    <string name="microwave_oven">Microwave Oven</string>
+    <string name="_1200">1200</string>
+    <string name="_6">\t6</string>
+</resources>

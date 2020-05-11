@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.ottomate">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/icon_yellow"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/icon_yellow"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".LivingRoom" android:label="LivingRoom" android:parentActivityName=".MainActivity"/>
+        <activity android:name=".Bedroom1" android:label="Bedroom-1" android:parentActivityName=".MainActivity"/>
+        <activity android:name=".Kitchen" android:label="Kitchen" android:parentActivityName=".MainActivity"/>
+        <activity android:name=".Bedroom2" android:label="Bedroom2" android:parentActivityName=".MainActivity"/>
+        <activity android:name=".Bathroom" android:label="Bathroom" android:parentActivityName=".MainActivity"/>
+        <activity android:name=".Lobby" android:label="Lobby" android:parentActivityName=".MainActivity"/>
+    </application>
+
+</manifest>

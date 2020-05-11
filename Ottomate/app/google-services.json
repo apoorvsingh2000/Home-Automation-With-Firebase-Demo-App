@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "365330392429",
+    "firebase_url": "https://ottomate-e0a74.firebaseio.com",
+    "project_id": "ottomate-e0a74",
+    "storage_bucket": "ottomate-e0a74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365330392429:android:5ff1cc7f5574848c752664",
+        "android_client_info": {
+          "package_name": "com.example.ottomate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "365330392429-5k2np2u0u480facdq3giv77v94siqk0f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ottomate",
+            "certificate_hash": "f53083c91af3d1b9e3b8a0a40d8456b6c4f23f40"
+          }
+        },
+        {
+          "client_id": "365330392429-8hgt7129vr772qt917h6nq1944n8ambp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoYbDND9fn0SNoyPxljofNgR4jz29DoCY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "365330392429-8hgt7129vr772qt917h6nq1944n8ambp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
